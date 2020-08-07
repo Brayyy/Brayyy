@@ -15,23 +15,23 @@
 
 ### Languages and Tools:
 
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)][gh]
-[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)][gh]
-[![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash)][gh]
-[![C++](https://img.shields.io/badge/-C/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=ffffff)][gh]
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)][gh]
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)][gh]
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)][gh]
-[![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab)][gh]
-[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)][gh]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)][gh]
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)][gh]
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)][gh]
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)][gh]
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)][gh]
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis)][gh]
-[![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-black?style=flat&logo=raspberry-pi)][gh]
-[![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat&logo=visual-studio-code)][gh]
+[![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)][gh]
+[![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon-aws)][gh]
+[![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash)][gh]
+[![C++](https://img.shields.io/badge/-C/C%2B%2B-222222?style=flat&logo=C%2B%2B&logoColor=ffffff)][gh]
+[![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)][gh]
+[![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)][gh]
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)][gh]<br />
+[![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=gitlab)][gh]
+[![Go](https://img.shields.io/badge/-Go-222222?style=flat&logo=go)][gh]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)][gh]
+[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)][gh]
+[![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)][gh]
+[![Nodejs](https://img.shields.io/badge/-Nodejs-222222?style=flat&logo=Node.js)][gh]
+[![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)][gh]<br />
+[![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)][gh]
+[![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-222222?style=flat&logo=raspberry-pi)][gh]
+[![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-222222?style=flat&logo=visual-studio-code)][gh]
 
 ### Stats:
 
