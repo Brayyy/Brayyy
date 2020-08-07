@@ -44,7 +44,7 @@
 [facebook]: https://www.facebook.com/ohbray
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=brayyy.brayyy)
+<img width=0 src="https://visitor-badge.laobi.icu/badge?page_id=brayyy.brayyy">
 
 <!--
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -56,4 +56,6 @@
 ⭐️ from [@Brayyy](https://github.com/Brayyy)
 <br />
 <br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=brayyy.brayyy)
+
 -->
